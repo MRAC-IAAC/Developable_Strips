@@ -1,5 +1,5 @@
 # Developable_Surfaces
-Workshop using Rhino/GH/Kangaroo to design developable strips and the Robots plug-in for fabrication
+Workshop using Rhino, Grasshopper, Karamba and Kangaroo to design developable strips and the Robots plug-in for fabrication
 
 The Workshop “Developable Strips: From Flat to Twisted” spanned from the theoretical background of developable surfaces -  specifically the sub-category of  'strips' which can be unfolded into rectangles on the plane – through to the robotic fabrication of a lighting appliance.
 
